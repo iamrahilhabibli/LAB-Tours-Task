@@ -110,5 +110,6 @@ button{
 }
 #price{
     color: orangered;
-    font-weight: 600;
+    font-weight: 500;
+    font-size: larger;
 }
